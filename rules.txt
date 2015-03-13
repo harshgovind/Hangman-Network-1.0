@@ -1,0 +1,15 @@
+		**********************************************************************************	
+				Welcome to Hangman(Network version 1.0)!
+		**********************************************************************************
+		1)To play, choose a mode(if you are client then you will not have option game,
+		  will continue as per the server choice selection).
+		2)Enter an alphabet and press enter.
+		3)Press one character at a time,unless you want to guess entire word.
+		3)To guess the whole phrase, press '!' at beginning of the phrase
+		4)To get more hint send message to opponent by pressing '>' & then your message
+		  while playing.
+		5)You will be given 6 chances if you guess wrong 1 chance penalty if 
+		  correct within 6 chances you won
+		6)Score is +5 for ocrrect guess and you will be credited +10 if guess whole word.		
+		7)Press exit after getting word to terminate.
+		**********************************************************************************
