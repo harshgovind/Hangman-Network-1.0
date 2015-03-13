@@ -28,6 +28,7 @@ clean :
 	rm $(OBJS_CLI) $(OBJS_SERV)
 
 remove:
+	rm $(OBJS_CLI) $(OBJS_SERV)
 	rm client 
 	rm server
 
